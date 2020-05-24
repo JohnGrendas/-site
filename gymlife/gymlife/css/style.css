@@ -782,6 +782,16 @@ ol {
 	margin-bottom: 30px;
 	position: relative;
 }
+.ps-item1 {
+	text-align: center;
+	padding: 40px 30px 52px;
+	border: 1px solid #464646;
+	-webkit-transform: skewY(-4deg);
+	-ms-transform: skewY(-4deg);
+	transform: skewY(-4deg);
+	margin-bottom: 30px;
+	position: relative;
+}
 
 .ps-item:hover {
 	background: #ffffff;
